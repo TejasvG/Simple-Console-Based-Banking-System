@@ -10,7 +10,7 @@ Key Features
 
 4. User-Friendly Interface: Clear and intuitive menu-driven interface for easy navigation and interaction.
 
-Getting Started
+## Getting Started ##
 
 To get started with the Console-Based Banking System, follow these simple steps:
 
