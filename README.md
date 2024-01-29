@@ -2,11 +2,13 @@
 The Console-Based Banking System is a simple yet powerful application written in C++ that allows users to perform basic banking operations directly from the console. With intuitive functionalities for account management, fund transactions, and account information retrieval, this project serves as an excellent introduction to C++ programming concepts and object-oriented design principles.
 Key Features
 
-    Account Management: Easily create new bank accounts by providing personal details like name, address, and account type.
-    Deposit and Withdrawal: Seamlessly deposit funds into accounts or withdraw funds as needed, with real-time balance updates.
-    Account Information Display: View account details, including name, address, account type, and current balance, at any time.
-    Robust Validation: Incorporates robust input validation to ensure data accuracy and integrity, enhancing security and reliability.
-    User-Friendly Interface: Clear and intuitive menu-driven interface for easy navigation and interaction.
+1. Account Management: Easily create new bank accounts by providing personal details like name, address, and account type.
+
+2. Deposit and Withdrawal: Seamlessly deposit funds into accounts or withdraw funds as needed, with real-time balance updates.
+
+3. Account Information Display: View account details, including name, address, account type, and current balance, at any time.
+
+4. User-Friendly Interface: Clear and intuitive menu-driven interface for easy navigation and interaction.
 
 Getting Started
 
